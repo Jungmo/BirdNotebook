@@ -9,12 +9,18 @@
 ---
 
 ## Test
-
-![image1](https://raw.githubusercontent.com/Jungmo/BirdCNN/master/readme_img/child1.bmp)
-![image2](https://raw.githubusercontent.com/Jungmo/BirdCNN/master/readme_img/child1.bmp)
-![image3](https://raw.githubusercontent.com/Jungmo/BirdCNN/master/readme_img/child1.bmp)
++++
+<!-- .slide: data-background-transition="none" -->
+![0](https://raw.githubusercontent.com/Jungmo/BirdCNN/master/readme_img/child1.bmp)
++++
+<!-- .slide: data-background-transition="none" -->
+![1](https://raw.githubusercontent.com/Jungmo/BirdCNN/master/readme_img/child2.bmp)
++++
+<!-- .slide: data-background-transition="none" -->
+![2](https://raw.githubusercontent.com/Jungmo/BirdCNN/master/readme_img/child3.bmp)
 ---
 
 ```C
 #include <stdio.h>
+#include <stdlib.h>
 ```
