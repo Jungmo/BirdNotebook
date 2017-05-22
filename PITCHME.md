@@ -14,10 +14,10 @@
 ![0](image=https://raw.githubusercontent.com/Jungmo/BirdCNN/master/readme_img/child1.bmp)
 +++
 <!-- .slide: data-background-transition="none" -->
-![1](image=https://raw.githubusercontent.com/Jungmo/BirdCNN/master/readme_img/child2.bmp)
+![0](image=https://raw.githubusercontent.com/Jungmo/BirdCNN/master/readme_img/child2.bmp)
 +++
 <!-- .slide: data-background-transition="none" -->
-![2](image=https://raw.githubusercontent.com/Jungmo/BirdCNN/master/readme_img/child3.bmp)
+![0](image=https://raw.githubusercontent.com/Jungmo/BirdCNN/master/readme_img/child3.bmp)
 ---
 
 ```C
