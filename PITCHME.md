@@ -1,4 +1,4 @@
----?image=assets/bg.jpg
+---?image=assets/bg.JPG
 # BirdNoteBook
 
 ---
